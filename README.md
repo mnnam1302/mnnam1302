@@ -1,7 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Nhat Nam
+✨I m a software developer.
+🌱 I’m currently learning Backend Developer and Architecture with C#, Javascript.
+📫 How to reach me: mnnam.khtn@gmail.com
+
+## ⚡ Favorite languages and tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnnam1302&layout=compact)
+
+## 🔭 GitHub contributions
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnnam1302&hide=contribs,prs)
 
 <!--
-**mnnam1302/mnnam1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mnnam1302/mnnam1302** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ✨
 -->

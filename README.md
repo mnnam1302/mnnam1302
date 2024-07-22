@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Nhat Nam
-✨I m a software developer.
-🌱 I’m currently learning Backend Developer and Architecture with C#, Javascript.
-📫 How to reach me: mnnam.khtn@gmail.com
+- ✨I m a software developer.
+- 🌱 I’m currently learning Backend Developer and Architecture with C#, Javascript.
+- 📫 How to reach me: mnnam.khtn@gmail.com
 
 ## ⚡ Favorite languages and tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnnam1302&layout=compact)
